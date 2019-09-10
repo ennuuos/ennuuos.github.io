@@ -28,7 +28,7 @@ body {
 
 @media(max-width: 900px) {
   #quickContact {
-    display: none;
+    position: absolute;
   }
 }
 
